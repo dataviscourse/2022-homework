@@ -205,8 +205,8 @@ Have fun with the first D3 homework and make sure to come to the HW Lab if anyth
 
 The score on this assignment will be as follows:
 
-10%: The constructor properly creates an array of `Node` objects.
-15%: The `buildTree` function properly populates the children.
-15%: The levels are correctly assigned.
-20%: The positions are correctly assigned.
-40%: The Tree is properly displayed in the browser, using groups and the appropriate D3 syntax in the renderTree function.
+10%: The constructor properly creates an array of `Node` objects.  
+15%: The `buildTree` function properly populates the children.  
+15%: The levels are correctly assigned.  
+20%: The positions are correctly assigned.  
+40%: The Tree is properly displayed in the browser, using groups and the appropriate D3 syntax in the renderTree function.  
