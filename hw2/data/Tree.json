@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Animal",
+    "parent": "root"
+  },
+  {
+    "name": "Sponges",
+    "parent": "Animal"
+  },
+  {
+    "name": "Nephrozoa",
+    "parent": "Animal"
+  },
+  {
+    "name": "Calcinea",
+    "parent": "Sponges"
+  },
+  {
+    "name": "Petrosina",
+    "parent": "Sponges"
+  },
+  {
+    "name": "Vertebrates",
+    "parent": "Nephrozoa"
+  },
+  {
+    "name": "Protosomes",
+    "parent": "Nephrozoa"
+  },
+  {
+    "name": "Lampreys",
+    "parent": "Vertebrates"
+  },
+  {
+    "name": "Sharks",
+    "parent": "Vertebrates"
+  },
+  {
+    "name": "Tetrapods",
+    "parent": "Vertebrates"
+  },
+  {
+    "name": "Turtles",
+    "parent": "Tetrapods"
+  },
+  {
+    "name": "Water Bears",
+    "parent": "Protosomes"
+  },
+  {
+    "name": "Hexapods",
+    "parent": "Protosomes"
+  },
+  {
+    "name": "Insects",
+    "parent": "Hexapods"
+  },
+  {
+    "name": "Proturans",
+    "parent": "Hexapods"
+  }
+]
