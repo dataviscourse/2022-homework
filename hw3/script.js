@@ -75,6 +75,7 @@ function updateAreaChart () {
 }
 
 /**
+ * update the scatter plot.
  */
 
 function updateScatterPlot () {
