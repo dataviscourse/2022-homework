@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Homework 3</title>
+  <style>
+    /* style div and headers */
+    .chart,
+    h2 {
+      text-align: center;
+    }
+
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .toolbox span {
+      padding: 5px;
+    }
+
+    svg {
+      padding: 10px;
+      width: 500px;
+      height: 250px;
+    }
+
+    /* style of bar charts */
+    .bar-chart rect {
+      fill: rgb(79, 175, 211);
+    }
+
+    .bar-chart .hovered {
+      fill: #979696;
+    }
+
+    /* style of line charts */
+    .line-chart {
+      stroke: rgb(79, 175, 211);
+      stroke-width: 2;
+      fill: none;
+    }
+
+    text {
+      fill: black;
+    }
+
+    /* style of area charts */
+    .area-chart {
+      fill: rgb(79, 175, 211);
+    }
+
+    /* style of scatter plot */
+    .scatter-plot circle {
+      fill: rgb(79, 175, 211);
+    }
+
+    .scatter-plot .hovered {
+      fill: #979696;
+    }
+  </style>
+  <!-- d3 script -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+
+<body>
+  <h3>CS-5630 / CS-6630 Homework 3</h3>
+  <address>
+    <span>Your Name</span>
+    <span>Your Email</span>
+    <span>Your UID</span>
+  </address>
+  <br />
+  <hr />
+  <br />
+
+  <div class="toolbox">
+
+    <span>
+      <label>Dataset:</label>
+      <select id="dataset">
+        <option value="covid_us">The US</option>
+        <option selected value="covid_utah">Utah</option>
+        <option value="covid_ca">California</option>
+        <option value="covid_ny">New York</option>
+      </select>
+    </span>
+    <span>
+      <label>Data Metric</label>
+      <select id="metric">
+        <option value="deaths">Deaths</option>
+        <option value="cases">Cases</option>
+      </select>
+    </span>
+
+    <span> <input type="checkbox" id="random" /> Random Subset </span>
+  </div>
+  <br />
+
+  <div class="row chart">
+    <div class="chart">
+      <h2>Bar Charts</h2>
+      <div id="Barchart-div">
+      </div>
+    </div>
+
+    <div class="chart">
+      <h2>Line Charts</h2>
+      <div id="Linechart-div"></div>
+    </div>
+  </div>
+
+  <div class="row chart">
+    <div class="chart">
+      <h2>Area Charts</h2>
+      <div id="Areachart-div"></div>
+    </div>
+
+    <div class="chart">
+      <h2>Scatterplot</h2>
+      <div id="Scatterplot-div"></div>
+    </div>
+  </div>
+</body>
+<script src="script.js"></script>
+
+</html>
