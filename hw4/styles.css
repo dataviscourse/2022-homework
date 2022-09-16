@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* SVG and div styling */
+#content {
+    margin: auto;
+    width: 1550px;
+}
+
+#map {
+    width: 800px;
+    height: 500px;
+}
+
+#line-chart {
+    width: 700px;
+    height: 500px;
+}
+
+#info-box {
+    margin: auto;
+    width: 400px;
+}
+
+.header {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/* Vis specific classes */
+#countries > .country.selected {
+    stroke-width: 2px;
+    stroke: black;
+    stroke-opacity: 1;
+}
+
+#countries > .country {
+    stroke-width: 1px;
+    stroke: black;
+    stroke-opacity: 0.1;
+}

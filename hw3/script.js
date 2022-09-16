@@ -92,7 +92,6 @@ function changeData () {
 
   d3.csv(`data/${dataFile}.csv`)
     .then(dataOutput => {
-
       /**
        * D3 loads all CSV data as strings. While Javascript is pretty smart
        * about interpreting strings as numbers when you do things like
