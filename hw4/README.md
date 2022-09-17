@@ -3,7 +3,7 @@
 
 In this assignment you will build a visualization inspired by [OurWorldInData's](https://ourworldindata.org/covid-cases) COVID-19 dashboard. The visualization we will make is made up of two views: a map and a line chart.
 
-The **map** provides geospatial context. Countries are color-coded with cumulative cases per million residents and can be selected to update the line chart with a detailed view of that country.
+The **map** provides geospatial context. Countries are color-coded with maximum cases per million residents and can be selected to update the line chart with a detailed view of that country.
 
 The **line chart** has a couple of different states. The first is when there is no selected country. In this state, the chart shows the total cases for each continent over time. The second state is when we select a country (or countries) in the map view. When we do this, the visualization should change to show the case trends of just the selected countries.
 
