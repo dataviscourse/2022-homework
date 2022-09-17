@@ -87,7 +87,8 @@ First, the necessary map data is available in the `globalApplicationState` in a 
 
 Next, write the code that produces the map. When you have the outlines of the countries being drawn on your map, you can then color-code the countries by their maximum `total_cases_per_million` value. Do this by modifying the fill attribute for each country.
 
-Also make sure that your map has the proper outline and graticule (grid lines). You can use the `d3.graticule()` function and the `graticule.outline()` to get the outline. It might make sense to add them in 2 steps so that you can style each individually.
+Also make sure that your map has the proper outline and 
+ule (grid lines). You can use the `d3.geoGraticule()` function and the `graticule.outline()` to get the outline. It might make sense to add them in 2 steps so that you can style each individually.
 
 The final piece of creating the map is setting up the clicking interaction. The interaction should allow you to select multiple countries for them to show up in the line chart. Clicking on an unselected country should select it, and clicking on a selected country should deselect it. You can handle this using the array in the `globalApplicationState` called `selectedLocations`. You can push when a country is clicked and [filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) it out when you want to remove it from the selections. There is a function that you should call in the class called `updateSelectedCountries()`, which should contain all the logic to set a `selected` class on the countries. By externalizing this logic to that function, we can call that from another component to update the selection. This means we can also tell the line chart to update when a country is selected, but you will probably want to revisit this step when we've got the line chart rendering.
 
