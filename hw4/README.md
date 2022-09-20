@@ -11,18 +11,20 @@ When a country is selected in the map, the country is highlighted on the map and
 
 ![Overview](figs/overview.png)
 
+**Note**: You have to use proper D3 and coding style when implementing your solution. Also, while we won’t be testing your code with other datasets, it should generalize in principle. You might loose points for e.g., explicitly making exceptions for certain data points.
+
 ## Learning Goals
 
-The learning goals for this homework are the following: 
+The learning goals for this homework are the following:
 
- * Working with scales. 
+ * Working with scales.
  * Working with maps.
  * Dynamically updating charts.
  * Developing a visualization with multiple views that synchronizes selections.
-  
+
 ## Project Structure
 
-We have provided boilerplate code for you in `hw4.html` for the main structure of the layout and css styling in `styles.css`. You will be working within the `.js` files that we have provided for the map and line chart views. 
+We have provided boilerplate code for you in `hw4.html` for the main structure of the layout and css styling in `styles.css`. You will be working within the `.js` files that we have provided for the map and line chart views.
 
 As in the previous homeworks, add your Name, UID, and email address at the top of the homework.
 
@@ -37,18 +39,18 @@ The project file structure looks like this:
         world.json
     js/
         line-chart.js
-        map.js        
+        map.js
         script.js
 
-Remember that you will need to be *serving* the homework directory, not just opening the HTML file in a browser. 
+Remember that you will need to be *serving* the homework directory, not just opening the HTML file in a browser.
 
 Before you submit you homework, you will want to make sure your submission is a valid html5 file. You can validate Check that it is valid by uploading it to the [W3C HTML Validator](https://validator.w3.org/#validate_by_upload).
 
 ## The Data
 
-Your map will use GeoJSON data that is contained in the `world.json` file. For this assignment, we provide only one CSV data file that contains all the information that you'll need. The file `owid-covid.csv` contains COVID-19 data from the start of the pandemic until September 7th, 2022; take a look at the file to understand the structure. We've provided the data loading for you, and the data is passed to the corresponding view objects in `script.js`. 
+Your map will use GeoJSON data that is contained in the `world.json` file. For this assignment, we provide only one CSV data file that contains all the information that you'll need. The file `owid-covid.csv` contains COVID-19 data from the start of the pandemic until September 7th, 2022; take a look at the file to understand the structure. We've provided the data loading for you, and the data is passed to the corresponding view objects in `script.js`.
 
-Here is a sample of the COVID-19 data, please note that the `iso_code` field should match the `id` field in the world.json file (this will be useful for lookups later): 
+Here is a sample of the COVID-19 data, please note that the `iso_code` field should match the `id` field in the world.json file (this will be useful for lookups later):
 
 ```
 iso_code,location,date,total_cases_per_million
@@ -65,7 +67,7 @@ SLV,El Salvador,2020-03-20,0.158
 ...
 ```
 
-We created a global application state that is passed into each component that contains the data, the current selected countries, and reference to each component (so that one component may trigger another component to update). You will note how some fields are initialized to null and are reassigned as the data objects and components are created in script.js. 
+We created a global application state that is passed into each component that contains the data, the current selected countries, and reference to each component (so that one component may trigger another component to update). You will note how some fields are initialized to null and are reassigned as the data objects and components are created in script.js.
 
 ```javascript
 const globalApplicationState = {
@@ -81,13 +83,13 @@ const globalApplicationState = {
 
 ![map](figs/map.png)
 
-We are going to start by building a map. The first thing to do for this is to fill in `constructor()` in `map.js`. We have provided you with the projection, including the scaling and translation necessary to center it in the designated map area. Note that we use the Winkel Tripel projection, which is [used by the National Geographic Society for world maps](https://www.nationalgeographic.org/media/selecting-map-projection/). Winkel Tripel aims to minimizes all distortions (area, angle, distance); you'll learn more about this in the maps lecture. 
+We are going to start by building a map. The first thing to do for this is to fill in `constructor()` in `map.js`. We have provided you with the projection, including the scaling and translation necessary to center it in the designated map area. Note that we use the Winkel Tripel projection, which is [used by the National Geographic Society for world maps](https://www.nationalgeographic.org/media/selecting-map-projection/). Winkel Tripel aims to minimizes all distortions (area, angle, distance); you'll learn more about this in the maps lecture.
 
 First, the necessary map data is available in the `globalApplicationState` in a property called `mapData`. This is TopoJSON, so will need to be handled accordingly. Please refer to the [maps coding lecture](http://dataviscourse.net/tutorials/lectures/lecture-maps/) for details on how to implement the map and how to deal with the TopoJSON.
 
 Next, write the code that produces the map. When you have the outlines of the countries being drawn on your map, you can then color-code the countries by their maximum `total_cases_per_million` value. Do this by modifying the fill attribute for each country.
 
-Also make sure that your map has the proper outline and 
+Also make sure that your map has the proper outline and
 ule (grid lines). You can use the `d3.geoGraticule()` function and the `graticule.outline()` to get the outline. It might make sense to add them in 2 steps so that you can style each individually.
 
 The final piece of creating the map is setting up the clicking interaction. The interaction should allow you to select multiple countries for them to show up in the line chart. Clicking on an unselected country should select it, and clicking on a selected country should deselect it. You can handle this using the array in the `globalApplicationState` called `selectedLocations`. You can push when a country is clicked and [filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) it out when you want to remove it from the selections. There is a function that you should call in the class called `updateSelectedCountries()`, which should contain all the logic to set a `selected` class on the countries. By externalizing this logic to that function, we can call that from another component to update the selection. This means we can also tell the line chart to update when a country is selected, but you will probably want to revisit this step when we've got the line chart rendering.
@@ -156,7 +158,7 @@ Here is the final visualization, and a higher resolution [video](figs/video.mov)
 ![Animated Result](figs/example.gif)
 ## Grading
 
-30% Map view implementation – map is drawn, countries are colored by `total_cases_per_million`, graticule is drawn  
-20% Data grouping for the line chart  
-30% Line chart implementation – line chart is drawn with continents as default, updates when the map is clicked, has interaction to show values at mouse location  
-20% Interactions, selections on update line chart, and "Clear Selected Countries" remove selections on both the map and the line chart. 
+30% Map view implementation – map is drawn, countries are colored by `total_cases_per_million`, graticule is drawn
+20% Data grouping for the line chart
+30% Line chart implementation – line chart is drawn with continents as default, updates when the map is clicked, has interaction to show values at mouse location
+20% Interactions, selections on update line chart, and "Clear Selected Countries" remove selections on both the map and the line chart.
