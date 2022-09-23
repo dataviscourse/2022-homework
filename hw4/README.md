@@ -158,7 +158,7 @@ Here is the final visualization, and a higher resolution [video](figs/video.mov)
 ![Animated Result](figs/example.gif)
 ## Grading
 
-30% Map view implementation – map is drawn, countries are colored by `total_cases_per_million`, graticule is drawn
-20% Data grouping for the line chart
-30% Line chart implementation – line chart is drawn with continents as default, updates when the map is clicked, has interaction to show values at mouse location
+30% Map view implementation – map is drawn, countries are colored by `total_cases_per_million`, graticule is drawn  
+20% Data grouping for the line chart  
+30% Line chart implementation – line chart is drawn with continents as default, updates when the map is clicked, has interaction to show values at mouse location  
 20% Interactions, selections on update line chart, and "Clear Selected Countries" remove selections on both the map and the line chart.
