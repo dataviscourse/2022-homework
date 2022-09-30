@@ -1,0 +1,146 @@
+
+table {
+    border-collapse: collapse;
+    font: 14px sans-serif;
+}
+
+th:first-of-type {
+    text-align: left;
+}
+
+th {
+    font-weight: normal;
+    text-align: center;
+    padding-right: 6px;
+    min-width: 125px;
+}
+
+th:last-of-type
+{
+    text-align: right;
+}
+
+td:first-of-type {
+    text-align: left;
+}
+
+td {
+    text-align: center;
+}
+
+td:last-of-type
+{
+    text-align: right;
+}
+
+.sorting {
+    background: black;
+    color: white;
+}
+
+.sortable {
+    user-select: none;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 6px;
+}
+
+.sortable:hover {
+    background: #d1d1d1;
+}
+
+.sortable.sorting:hover {
+    background: #232323;
+}
+
+.trump {
+    color: firebrick;
+    fill: firebrick;
+}
+
+.biden {
+    color: steelblue;
+    fill: steelblue;
+}
+
+td {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 5px;
+    padding-left: 5px;
+    color:black;
+}
+
+#predictionTable td {
+    line-height: 0;
+}
+
+#predictionTable tbody tr {
+    cursor: pointer;
+}
+
+tbody tr:hover {
+    background-color: #efefef;
+}
+
+.label{
+    text-anchor: middle;
+}
+
+@font-face {
+    font-family: 'font1';
+    src: url('assets/font1.ttf');
+}
+
+h1 {
+    margin-top: 0;
+    color: #343651;
+}
+
+h2 {
+    color: #343651;
+
+}
+
+* {
+    font-family: 'font1';
+}
+
+header {
+    padding: 0.5em;
+    text-align: center;
+    height: 100px;
+}
+
+.view {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.no-display {
+    display: none !important;
+}
+
+tr:hover .margin-bar {
+    opacity: 0.9;
+}
+
+.margin-bar {
+    opacity: 0.6;
+}
+
+.margin-circle {
+    stroke: black;
+    stroke-width: 0.5;
+}
+
+.state-name {
+    font-size: 11pt;
+    font-weight: 800;
+}
+
+.poll-name {
+    color: #454545;
+    font-size: 9pt;
+}

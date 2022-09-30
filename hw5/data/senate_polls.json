@@ -1,0 +1,1722 @@
+[
+  [
+    "Arizona",
+    [
+      {
+        "state": "Arizona",
+        "name": "Suffolk",
+        "margin": -6.799999999999997
+      },
+      {
+        "state": "Arizona",
+        "name": "Marist",
+        "margin": -10
+      },
+      {
+        "state": "Arizona",
+        "name": "Data for Progress",
+        "margin": -1
+      },
+      {
+        "state": "Arizona",
+        "name": "Trafalgar Group",
+        "margin": -1.2000000000000028
+      },
+      {
+        "state": "Arizona",
+        "name": "Fabrizio/Impact",
+        "margin": -7.5
+      },
+      {
+        "state": "Arizona",
+        "name": "Center Street PAC",
+        "margin": -20.5
+      },
+      {
+        "state": "Arizona",
+        "name": "OH Predictive Insights / MBQF",
+        "margin": -12
+      },
+      {
+        "state": "Arizona",
+        "name": "InsiderAdvantage",
+        "margin": -6
+      },
+      {
+        "state": "Arizona",
+        "name": "Emerson College Polling Society",
+        "margin": -1.7000000000000028
+      },
+      {
+        "state": "Arizona",
+        "name": "Echelon Insights",
+        "margin": -15
+      },
+      {
+        "state": "Arizona",
+        "name": "Trafalgar Group",
+        "margin": -3.3000000000000043
+      },
+      {
+        "state": "Arizona",
+        "name": "RMG Research",
+        "margin": -7
+      },
+      {
+        "state": "Arizona",
+        "name": "Beacon Research/Shaw & Company",
+        "margin": -8
+      },
+      {
+        "state": "Arizona",
+        "name": "Center Street PAC",
+        "margin": -14.666666666666664
+      },
+      {
+        "state": "Arizona",
+        "name": "OnMessage Inc.",
+        "margin": -5
+      },
+      {
+        "state": "Arizona",
+        "name": "Beacon Research",
+        "margin": -12.666666666666664
+      },
+      {
+        "state": "Arizona",
+        "name": "Fabrizio",
+        "margin": -5
+      },
+      {
+        "state": "Arizona",
+        "name": "Change Research",
+        "margin": -7.5
+      },
+      {
+        "state": "Arizona",
+        "name": "Blueprint Polling",
+        "margin": -15.533333333333331
+      },
+      {
+        "state": "Arizona",
+        "name": "Data for Progress",
+        "margin": -2.5
+      },
+      {
+        "state": "Arizona",
+        "name": "OH Predictive Insights / MBQF",
+        "margin": -6.75
+      },
+      {
+        "state": "Arizona",
+        "name": "OH Predictive Insights / MBQF",
+        "margin": -10.857142857142861
+      }
+    ]
+  ],
+  [
+    "New York",
+    [
+      {
+        "state": "New York",
+        "name": "Siena",
+        "margin": -19
+      },
+      {
+        "state": "New York",
+        "name": "Emerson College Polling Society",
+        "margin": -24.2
+      },
+      {
+        "state": "New York",
+        "name": "McLaughlin",
+        "margin": -15
+      },
+      {
+        "state": "New York",
+        "name": "Emerson College Polling Society",
+        "margin": -22.200000000000003
+      },
+      {
+        "state": "New York",
+        "name": "Siena",
+        "margin": -21
+      }
+    ]
+  ],
+  [
+    "Florida",
+    [
+      {
+        "state": "Florida",
+        "name": "ActiVote",
+        "margin": 6
+      },
+      {
+        "state": "Florida",
+        "name": "Civiqs",
+        "margin": 2
+      },
+      {
+        "state": "Florida",
+        "name": "Suffolk",
+        "margin": 4
+      },
+      {
+        "state": "Florida",
+        "name": "Sachs Media",
+        "margin": 3
+      },
+      {
+        "state": "Florida",
+        "name": "Center Street PAC",
+        "margin": 6.5
+      },
+      {
+        "state": "Florida",
+        "name": "Echelon Insights",
+        "margin": 9
+      },
+      {
+        "state": "Florida",
+        "name": "InsiderAdvantage",
+        "margin": 2
+      },
+      {
+        "state": "Florida",
+        "name": "Susquehanna",
+        "margin": 3
+      },
+      {
+        "state": "Florida",
+        "name": "Fabrizio/Impact",
+        "margin": 2
+      },
+      {
+        "state": "Florida",
+        "name": "Clarity",
+        "margin": 1
+      },
+      {
+        "state": "Florida",
+        "name": "Sachs Media",
+        "margin": 2
+      },
+      {
+        "state": "Florida",
+        "name": "Impact Research",
+        "margin": 3
+      },
+      {
+        "state": "Florida",
+        "name": "Center Street PAC",
+        "margin": 9
+      },
+      {
+        "state": "Florida",
+        "name": "U. North Florida",
+        "margin": -4
+      },
+      {
+        "state": "Florida",
+        "name": "Change Research",
+        "margin": 0
+      },
+      {
+        "state": "Florida",
+        "name": "Clarity",
+        "margin": 0
+      },
+      {
+        "state": "Florida",
+        "name": "Center Street PAC",
+        "margin": 9
+      },
+      {
+        "state": "Florida",
+        "name": "PPP",
+        "margin": 6
+      },
+      {
+        "state": "Florida",
+        "name": "Phillips Academy",
+        "margin": -2
+      },
+      {
+        "state": "Florida",
+        "name": "Moore Information",
+        "margin": 15
+      },
+      {
+        "state": "Florida",
+        "name": "Saint Leo U.",
+        "margin": 17.6
+      },
+      {
+        "state": "Florida",
+        "name": "Center Street PAC",
+        "margin": 19.666666666666664
+      },
+      {
+        "state": "Florida",
+        "name": "U. North Florida",
+        "margin": 12
+      },
+      {
+        "state": "Florida",
+        "name": "Mason-Dixon",
+        "margin": 7
+      },
+      {
+        "state": "Florida",
+        "name": "Suffolk",
+        "margin": 7.200000000000003
+      },
+      {
+        "state": "Florida",
+        "name": "St. Pete Polls",
+        "margin": 6.700000000000003
+      },
+      {
+        "state": "Florida",
+        "name": "Redfield & Wilton Strategies",
+        "margin": 10.5
+      },
+      {
+        "state": "Florida",
+        "name": "Saint Leo U.",
+        "margin": 18.199999999999996
+      },
+      {
+        "state": "Florida",
+        "name": "VCreek/AMG",
+        "margin": 8
+      },
+      {
+        "state": "Florida",
+        "name": "Redfield & Wilton Strategies",
+        "margin": 12
+      },
+      {
+        "state": "Florida",
+        "name": "The Political Matrix/The Listener Group",
+        "margin": 9.799999999999997
+      },
+      {
+        "state": "Florida",
+        "name": "St. Pete Polls",
+        "margin": 2
+      },
+      {
+        "state": "Florida",
+        "name": "Change Research",
+        "margin": 3
+      },
+      {
+        "state": "Florida",
+        "name": "Susquehanna",
+        "margin": 11
+      },
+      {
+        "state": "Florida",
+        "name": "The Political Matrix/The Listener Group",
+        "margin": 20.799999999999997
+      }
+    ]
+  ],
+  [
+    "Pennsylvania",
+    [
+      {
+        "state": "Pennsylvania",
+        "name": "InsiderAdvantage",
+        "margin": -3.0999999999999943
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Marist",
+        "margin": -10
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Phillips Academy",
+        "margin": -2
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Muhlenberg",
+        "margin": -5
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Trafalgar Group",
+        "margin": -1.8000000000000043
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "YouGov",
+        "margin": -5
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Echelon Insights",
+        "margin": -21
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "RABA Research",
+        "margin": -9
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Center Street PAC",
+        "margin": -18.5
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Susquehanna",
+        "margin": -5
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Emerson College Polling Society",
+        "margin": -4.899999999999999
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Franklin and Marshall College",
+        "margin": -13
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Trafalgar Group",
+        "margin": -4.899999999999999
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "POS",
+        "margin": -18
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Center Street PAC",
+        "margin": -15.666666666666664
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Beacon Research/Shaw & Company",
+        "margin": -11
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "PEM Management Corporation",
+        "margin": -6
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Blueprint Polling",
+        "margin": -9.299999999999997
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Beacon Research",
+        "margin": -12
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Global Strategy Group",
+        "margin": -11
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Cygnal Political",
+        "margin": -4.400000000000006
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Fabrizio/Impact",
+        "margin": -6
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Suffolk",
+        "margin": -8.600000000000001
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Data for Progress",
+        "margin": -2
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Garin Hart Yang",
+        "margin": -4.5
+      },
+      {
+        "state": "Pennsylvania",
+        "name": "Data for Progress",
+        "margin": -9
+      }
+    ]
+  ],
+  [
+    "Washington",
+    [
+      {
+        "state": "Washington",
+        "name": "Trafalgar Group",
+        "margin": -2.200000000000003
+      },
+      {
+        "state": "Washington",
+        "name": "Elway",
+        "margin": -13
+      },
+      {
+        "state": "Washington",
+        "name": "PPP",
+        "margin": -9
+      },
+      {
+        "state": "Washington",
+        "name": "Trafalgar Group",
+        "margin": -2.9000000000000057
+      },
+      {
+        "state": "Washington",
+        "name": "McLaughlin",
+        "margin": -6.100000000000001
+      },
+      {
+        "state": "Washington",
+        "name": "Elway",
+        "margin": -20
+      },
+      {
+        "state": "Washington",
+        "name": "SurveyUSA",
+        "margin": -18
+      },
+      {
+        "state": "Washington",
+        "name": "Tarrance",
+        "margin": -5
+      },
+      {
+        "state": "Washington",
+        "name": "PPP",
+        "margin": -11
+      },
+      {
+        "state": "Washington",
+        "name": "PPP",
+        "margin": -9
+      },
+      {
+        "state": "Washington",
+        "name": "PPP",
+        "margin": -13
+      },
+      {
+        "state": "Washington",
+        "name": "SurveyUSA",
+        "margin": -18
+      },
+      {
+        "state": "Washington",
+        "name": "PPP",
+        "margin": -16
+      }
+    ]
+  ],
+  [
+    "Colorado",
+    [
+      {
+        "state": "Colorado",
+        "name": "Trafalgar Group",
+        "margin": -6
+      },
+      {
+        "state": "Colorado",
+        "name": "Emerson College Polling Society",
+        "margin": -9.600000000000001
+      },
+      {
+        "state": "Colorado",
+        "name": "PPP",
+        "margin": -11
+      },
+      {
+        "state": "Colorado",
+        "name": "Tarrance",
+        "margin": -1
+      },
+      {
+        "state": "Colorado",
+        "name": "Trafalgar Group",
+        "margin": -5.799999999999997
+      },
+      {
+        "state": "Colorado",
+        "name": "McLaughlin",
+        "margin": -7.700000000000003
+      },
+      {
+        "state": "Colorado",
+        "name": "Global Strategy Group",
+        "margin": -13
+      },
+      {
+        "state": "Colorado",
+        "name": "Blueprint Polling",
+        "margin": -6.199999999999996
+      },
+      {
+        "state": "Colorado",
+        "name": "Global Strategy Group",
+        "margin": -15.5
+      },
+      {
+        "state": "Colorado",
+        "name": "co/efficient",
+        "margin": -8
+      },
+      {
+        "state": "Colorado",
+        "name": "Global Strategy Group",
+        "margin": -13
+      }
+    ]
+  ],
+  [
+    "Ohio",
+    [
+      {
+        "state": "Ohio",
+        "name": "Siena",
+        "margin": -3
+      },
+      {
+        "state": "Ohio",
+        "name": "Marist",
+        "margin": 1
+      },
+      {
+        "state": "Ohio",
+        "name": "Baldwin Wallace University",
+        "margin": -3.1000000000000014
+      },
+      {
+        "state": "Ohio",
+        "name": "Emerson College Polling Society",
+        "margin": 4.299999999999997
+      },
+      {
+        "state": "Ohio",
+        "name": "Civiqs",
+        "margin": 3
+      },
+      {
+        "state": "Ohio",
+        "name": "Fallon Research & Communications",
+        "margin": -3
+      },
+      {
+        "state": "Ohio",
+        "name": "Suffolk",
+        "margin": -1
+      },
+      {
+        "state": "Ohio",
+        "name": "Change Research",
+        "margin": -5
+      },
+      {
+        "state": "Ohio",
+        "name": "Echelon Insights",
+        "margin": -6
+      },
+      {
+        "state": "Ohio",
+        "name": "Center Street PAC",
+        "margin": -9
+      },
+      {
+        "state": "Ohio",
+        "name": "Impact Research",
+        "margin": -3
+      },
+      {
+        "state": "Ohio",
+        "name": "Trafalgar Group",
+        "margin": 4.600000000000001
+      },
+      {
+        "state": "Ohio",
+        "name": "Emerson College Polling Society",
+        "margin": 3.1000000000000014
+      },
+      {
+        "state": "Ohio",
+        "name": "Center Street PAC",
+        "margin": -10.666666666666664
+      },
+      {
+        "state": "Ohio",
+        "name": "Impact Research",
+        "margin": -3
+      },
+      {
+        "state": "Ohio",
+        "name": "PEM Management Corporation",
+        "margin": -6.299999999999997
+      },
+      {
+        "state": "Ohio",
+        "name": "Center Street PAC",
+        "margin": -5
+      },
+      {
+        "state": "Ohio",
+        "name": "Impact Research",
+        "margin": -2
+      },
+      {
+        "state": "Ohio",
+        "name": "Suffolk",
+        "margin": 2.200000000000003
+      },
+      {
+        "state": "Ohio",
+        "name": "Center Street PAC",
+        "margin": 2
+      },
+      {
+        "state": "Ohio",
+        "name": "Redfield & Wilton Strategies",
+        "margin": -0.5
+      },
+      {
+        "state": "Ohio",
+        "name": "PPP",
+        "margin": 1
+      }
+    ]
+  ],
+  [
+    "Connecticut",
+    [
+      {
+        "state": "Connecticut",
+        "name": "Western New England University",
+        "margin": -13.5
+      },
+      {
+        "state": "Connecticut",
+        "name": "Quinnipiac",
+        "margin": -17
+      },
+      {
+        "state": "Connecticut",
+        "name": "Emerson College Polling Society",
+        "margin": -12.699999999999996
+      },
+      {
+        "state": "Connecticut",
+        "name": "McLaughlin",
+        "margin": -11.700000000000003
+      },
+      {
+        "state": "Connecticut",
+        "name": "Emerson College Polling Society",
+        "margin": -14.066666666666663
+      }
+    ]
+  ],
+  [
+    "Utah",
+    [
+      {
+        "state": "Utah",
+        "name": "Dan Jones",
+        "margin": 36.5
+      },
+      {
+        "state": "Utah",
+        "name": "OnMessage Inc.",
+        "margin": 51
+      },
+      {
+        "state": "Utah",
+        "name": "Lighthouse Research",
+        "margin": 48.13
+      },
+      {
+        "state": "Utah",
+        "name": "Center Street PAC",
+        "margin": 41.5
+      },
+      {
+        "state": "Utah",
+        "name": "Impact Research",
+        "margin": 46
+      },
+      {
+        "state": "Utah",
+        "name": "WPA Intelligence",
+        "margin": 50
+      },
+      {
+        "state": "Utah",
+        "name": "Dan Jones",
+        "margin": 41
+      },
+      {
+        "state": "Utah",
+        "name": "WPA Intelligence",
+        "margin": 49
+      },
+      {
+        "state": "Utah",
+        "name": "Center Street PAC",
+        "margin": 45.666666666666664
+      },
+      {
+        "state": "Utah",
+        "name": "WPA Intelligence",
+        "margin": 52
+      },
+      {
+        "state": "Utah",
+        "name": "Dan Jones",
+        "margin": 32
+      },
+      {
+        "state": "Utah",
+        "name": "Dan Jones",
+        "margin": 31
+      },
+      {
+        "state": "Utah",
+        "name": "Moore Information",
+        "margin": 36
+      },
+      {
+        "state": "Utah",
+        "name": "Dan Jones",
+        "margin": 32
+      },
+      {
+        "state": "Utah",
+        "name": "Center Street PAC",
+        "margin": 34
+      },
+      {
+        "state": "Utah",
+        "name": "OH Predictive Insights / MBQF",
+        "margin": 21.75
+      }
+    ]
+  ],
+  [
+    "Nevada",
+    [
+      {
+        "state": "Nevada",
+        "name": "InsiderAdvantage",
+        "margin": 2.8999999999999986
+      },
+      {
+        "state": "Nevada",
+        "name": "Trafalgar Group",
+        "margin": 4
+      },
+      {
+        "state": "Nevada",
+        "name": "Data for Progress",
+        "margin": 1
+      },
+      {
+        "state": "Nevada",
+        "name": "Emerson College Polling Society",
+        "margin": 0.5
+      },
+      {
+        "state": "Nevada",
+        "name": "Fabrizio/Impact",
+        "margin": -2.5
+      },
+      {
+        "state": "Nevada",
+        "name": "Trafalgar Group",
+        "margin": 2.4000000000000057
+      },
+      {
+        "state": "Nevada",
+        "name": "Suffolk",
+        "margin": -6.399999999999999
+      },
+      {
+        "state": "Nevada",
+        "name": "Beacon Research",
+        "margin": -8
+      },
+      {
+        "state": "Nevada",
+        "name": "Emerson College Polling Society",
+        "margin": -3.3000000000000043
+      },
+      {
+        "state": "Nevada",
+        "name": "Change Research",
+        "margin": -3
+      },
+      {
+        "state": "Nevada",
+        "name": "University of Nevada",
+        "margin": -22
+      },
+      {
+        "state": "Nevada",
+        "name": "McLaughlin",
+        "margin": 1
+      },
+      {
+        "state": "Nevada",
+        "name": "OH Predictive Insights / MBQF",
+        "margin": -8
+      },
+      {
+        "state": "Nevada",
+        "name": "Suffolk",
+        "margin": 2
+      },
+      {
+        "state": "Nevada",
+        "name": "Blueprint Polling",
+        "margin": 6.600000000000001
+      },
+      {
+        "state": "Nevada",
+        "name": "OH Predictive Insights / MBQF",
+        "margin": -9
+      },
+      {
+        "state": "Nevada",
+        "name": "Trafalgar Group",
+        "margin": 3.200000000000003
+      },
+      {
+        "state": "Nevada",
+        "name": "NRSC",
+        "margin": 4
+      },
+      {
+        "state": "Nevada",
+        "name": "Mellman",
+        "margin": -4.299999999999997
+      },
+      {
+        "state": "Nevada",
+        "name": "WPA Intelligence",
+        "margin": 2
+      },
+      {
+        "state": "Nevada",
+        "name": "VCreek/AMG",
+        "margin": 10
+      }
+    ]
+  ],
+  [
+    "North Carolina",
+    [
+      {
+        "state": "North Carolina",
+        "name": "Civiqs",
+        "margin": -1
+      },
+      {
+        "state": "North Carolina",
+        "name": "Global Strategy Group",
+        "margin": 0
+      },
+      {
+        "state": "North Carolina",
+        "name": "Emerson College Polling Society",
+        "margin": 2.3999999999999986
+      },
+      {
+        "state": "North Carolina",
+        "name": "East Carolina University",
+        "margin": 2.8000000000000043
+      },
+      {
+        "state": "North Carolina",
+        "name": "Trafalgar Group",
+        "margin": 2.8000000000000043
+      },
+      {
+        "state": "North Carolina",
+        "name": "PPP",
+        "margin": -1
+      },
+      {
+        "state": "North Carolina",
+        "name": "Capitol Communications",
+        "margin": -0.8999999999999986
+      },
+      {
+        "state": "North Carolina",
+        "name": "Cygnal Political",
+        "margin": 0
+      },
+      {
+        "state": "North Carolina",
+        "name": "Blueprint Polling",
+        "margin": -4
+      },
+      {
+        "state": "North Carolina",
+        "name": "PEM Management Corporation",
+        "margin": -2.4000000000000057
+      },
+      {
+        "state": "North Carolina",
+        "name": "Trafalgar Group",
+        "margin": 2.5
+      },
+      {
+        "state": "North Carolina",
+        "name": "Cygnal Political",
+        "margin": 4.700000000000003
+      },
+      {
+        "state": "North Carolina",
+        "name": "SurveyUSA",
+        "margin": -4
+      },
+      {
+        "state": "North Carolina",
+        "name": "Cygnal Political",
+        "margin": 1.8000000000000043
+      },
+      {
+        "state": "North Carolina",
+        "name": "East Carolina University",
+        "margin": 7.799999999999997
+      },
+      {
+        "state": "North Carolina",
+        "name": "Meeting Street Insights",
+        "margin": 1
+      },
+      {
+        "state": "North Carolina",
+        "name": "Emerson College Polling Society",
+        "margin": 1.0999999999999943
+      },
+      {
+        "state": "North Carolina",
+        "name": "Global Strategy Group",
+        "margin": 0.5
+      },
+      {
+        "state": "North Carolina",
+        "name": "Emerson College Polling Society",
+        "margin": 2.625
+      },
+      {
+        "state": "North Carolina",
+        "name": "Cygnal Political",
+        "margin": 0.8999999999999915
+      },
+      {
+        "state": "North Carolina",
+        "name": "Redfield & Wilton Strategies",
+        "margin": 1.5
+      }
+    ]
+  ],
+  [
+    "Georgia",
+    [
+      {
+        "state": "Georgia",
+        "name": "Data for Progress",
+        "margin": 0
+      },
+      {
+        "state": "Georgia",
+        "name": "YouGov",
+        "margin": -2
+      },
+      {
+        "state": "Georgia",
+        "name": "U. Georgia SPIA",
+        "margin": 1.5999999999999943
+      },
+      {
+        "state": "Georgia",
+        "name": "Marist",
+        "margin": -5
+      },
+      {
+        "state": "Georgia",
+        "name": "Center Street PAC",
+        "margin": -8.5
+      },
+      {
+        "state": "Georgia",
+        "name": "Quinnipiac",
+        "margin": -6
+      },
+      {
+        "state": "Georgia",
+        "name": "InsiderAdvantage",
+        "margin": 3
+      },
+      {
+        "state": "Georgia",
+        "name": "Echelon Insights",
+        "margin": -10
+      },
+      {
+        "state": "Georgia",
+        "name": "Emerson College Polling Society",
+        "margin": 1.7000000000000028
+      },
+      {
+        "state": "Georgia",
+        "name": "Trafalgar Group",
+        "margin": 0.7999999999999972
+      },
+      {
+        "state": "Georgia",
+        "name": "Phillips Academy",
+        "margin": 1.6000000000000014
+      },
+      {
+        "state": "Georgia",
+        "name": "Research Affiliates",
+        "margin": -3
+      },
+      {
+        "state": "Georgia",
+        "name": "InsiderAdvantage",
+        "margin": -3
+      },
+      {
+        "state": "Georgia",
+        "name": "Beacon Research/Shaw & Company",
+        "margin": -4
+      },
+      {
+        "state": "Georgia",
+        "name": "PEM Management Corporation",
+        "margin": 4.599999999999994
+      },
+      {
+        "state": "Georgia",
+        "name": "SurveyUSA",
+        "margin": -9
+      },
+      {
+        "state": "Georgia",
+        "name": "U. Georgia SPIA",
+        "margin": -3.6000000000000014
+      },
+      {
+        "state": "Georgia",
+        "name": "Beacon Research",
+        "margin": -8.5
+      },
+      {
+        "state": "Georgia",
+        "name": "Fabrizio/Impact",
+        "margin": -3
+      },
+      {
+        "state": "Georgia",
+        "name": "Data for Progress",
+        "margin": 2
+      },
+      {
+        "state": "Georgia",
+        "name": "Change Research",
+        "margin": -4
+      },
+      {
+        "state": "Georgia",
+        "name": "Quinnipiac",
+        "margin": -10
+      },
+      {
+        "state": "Georgia",
+        "name": "Moore Information",
+        "margin": 0
+      },
+      {
+        "state": "Georgia",
+        "name": "East Carolina University",
+        "margin": -0.7999999999999972
+      },
+      {
+        "state": "Georgia",
+        "name": "SurveyUSA",
+        "margin": -5
+      },
+      {
+        "state": "Georgia",
+        "name": "Grassroots Targeting",
+        "margin": 10.399999999999999
+      },
+      {
+        "state": "Georgia",
+        "name": "Emerson College Polling Society",
+        "margin": 3.8999999999999986
+      },
+      {
+        "state": "Georgia",
+        "name": "Blueprint Polling",
+        "margin": 3.1000000000000014
+      },
+      {
+        "state": "Georgia",
+        "name": "Wick",
+        "margin": 0.8999999999999986
+      },
+      {
+        "state": "Georgia",
+        "name": "Quinnipiac",
+        "margin": 1
+      },
+      {
+        "state": "Georgia",
+        "name": "U. Georgia SPIA",
+        "margin": -0.8999999999999915
+      },
+      {
+        "state": "Georgia",
+        "name": "NRSC",
+        "margin": 1
+      },
+      {
+        "state": "Georgia",
+        "name": "Redfield & Wilton Strategies",
+        "margin": -6
+      },
+      {
+        "state": "Georgia",
+        "name": "PPP",
+        "margin": -4.333333333333336
+      },
+      {
+        "state": "Georgia",
+        "name": "Trafalgar Group/InsiderAdvantage",
+        "margin": -1.0333333333333314
+      }
+    ]
+  ],
+  [
+    "New Hampshire",
+    [
+      {
+        "state": "New Hampshire",
+        "name": "American Research Group",
+        "margin": -13
+      },
+      {
+        "state": "New Hampshire",
+        "name": "U. New Hampshire",
+        "margin": -8
+      },
+      {
+        "state": "New Hampshire",
+        "name": "Emerson College Polling Society",
+        "margin": -10.5
+      },
+      {
+        "state": "New Hampshire",
+        "name": "Data for Progress",
+        "margin": -3.6666666666666643
+      },
+      {
+        "state": "New Hampshire",
+        "name": "Change Research",
+        "margin": -9
+      },
+      {
+        "state": "New Hampshire",
+        "name": "U. New Hampshire",
+        "margin": -1.5
+      },
+      {
+        "state": "New Hampshire",
+        "name": "Phillips Academy",
+        "margin": -7.2749999999999915
+      },
+      {
+        "state": "New Hampshire",
+        "name": "St. Anselm",
+        "margin": -7.333333333333329
+      },
+      {
+        "state": "New Hampshire",
+        "name": "St. Anselm",
+        "margin": -13
+      },
+      {
+        "state": "New Hampshire",
+        "name": "Trafalgar Group",
+        "margin": -6.5
+      },
+      {
+        "state": "New Hampshire",
+        "name": "Tarrance",
+        "margin": -2
+      },
+      {
+        "state": "New Hampshire",
+        "name": "St. Anselm",
+        "margin": 5
+      },
+      {
+        "state": "New Hampshire",
+        "name": "U. New Hampshire",
+        "margin": -1
+      },
+      {
+        "state": "New Hampshire",
+        "name": "St. Anselm",
+        "margin": 8
+      },
+      {
+        "state": "New Hampshire",
+        "name": "U. New Hampshire",
+        "margin": -4.333333333333336
+      },
+      {
+        "state": "New Hampshire",
+        "name": "St. Anselm",
+        "margin": 6
+      },
+      {
+        "state": "New Hampshire",
+        "name": "U. New Hampshire",
+        "margin": -8.75
+      }
+    ]
+  ],
+  [
+    "Wisconsin",
+    [
+      {
+        "state": "Wisconsin",
+        "name": "Trafalgar Group",
+        "margin": 2.200000000000003
+      },
+      {
+        "state": "Wisconsin",
+        "name": "Emerson College Polling Society",
+        "margin": 3.6000000000000014
+      },
+      {
+        "state": "Wisconsin",
+        "name": "Siena",
+        "margin": -1
+      },
+      {
+        "state": "Wisconsin",
+        "name": "OnMessage Inc.",
+        "margin": 4
+      },
+      {
+        "state": "Wisconsin",
+        "name": "Civiqs",
+        "margin": 1
+      },
+      {
+        "state": "Wisconsin",
+        "name": "Marquette Law School",
+        "margin": 1
+      },
+      {
+        "state": "Wisconsin",
+        "name": "Trafalgar Group",
+        "margin": -2.299999999999997
+      },
+      {
+        "state": "Wisconsin",
+        "name": "Beacon Research/Shaw & Company",
+        "margin": -4
+      },
+      {
+        "state": "Wisconsin",
+        "name": "Marquette Law School",
+        "margin": -7
+      },
+      {
+        "state": "Wisconsin",
+        "name": "Marquette Law School",
+        "margin": -0.5
+      },
+      {
+        "state": "Wisconsin",
+        "name": "Clarity",
+        "margin": 0
+      },
+      {
+        "state": "Wisconsin",
+        "name": "Change Research",
+        "margin": -4
+      }
+    ]
+  ],
+  [
+    "Kansas",
+    [
+      {
+        "state": "Kansas",
+        "name": "Emerson College Polling Society",
+        "margin": 12.199999999999996
+      },
+      {
+        "state": "Kansas",
+        "name": "Echelon Insights",
+        "margin": 19
+      },
+      {
+        "state": "Kansas",
+        "name": "Battleground Connect",
+        "margin": 20.700000000000003
+      }
+    ]
+  ],
+  [
+    "Missouri",
+    [
+      {
+        "state": "Missouri",
+        "name": "SurveyUSA",
+        "margin": 11
+      },
+      {
+        "state": "Missouri",
+        "name": "Remington",
+        "margin": 11
+      },
+      {
+        "state": "Missouri",
+        "name": "YouGov",
+        "margin": 12
+      },
+      {
+        "state": "Missouri",
+        "name": "SurveyUSA",
+        "margin": 5.166666666666668
+      },
+      {
+        "state": "Missouri",
+        "name": "SurveyUSA",
+        "margin": 10.333333333333336
+      },
+      {
+        "state": "Missouri",
+        "name": "Remington",
+        "margin": 14.333333333333336
+      },
+      {
+        "state": "Missouri",
+        "name": "Trafalgar Group",
+        "margin": 11.29999999999999
+      },
+      {
+        "state": "Missouri",
+        "name": "co/efficient",
+        "margin": 5.375
+      },
+      {
+        "state": "Missouri",
+        "name": "Fabrizio",
+        "margin": 6.5
+      },
+      {
+        "state": "Missouri",
+        "name": "Remington",
+        "margin": 7.75
+      },
+      {
+        "state": "Missouri",
+        "name": "Data for Progress",
+        "margin": 1
+      }
+    ]
+  ],
+  [
+    "Arkansas",
+    [
+      {
+        "state": "Arkansas",
+        "name": "Hendrix College",
+        "margin": 13
+      }
+    ]
+  ],
+  [
+    "Maryland",
+    [
+      {
+        "state": "Maryland",
+        "name": "Goucher College",
+        "margin": -23
+      },
+      {
+        "state": "Maryland",
+        "name": "WPA Intelligence",
+        "margin": 12
+      }
+    ]
+  ],
+  [
+    "Virginia",
+    [
+      {
+        "state": "Virginia",
+        "name": "Research America Inc.",
+        "margin": -2
+      }
+    ]
+  ],
+  [
+    "Alaska",
+    [
+      {
+        "state": "Alaska",
+        "name": "Fabrizio/Impact",
+        "margin": 81
+      },
+      {
+        "state": "Alaska",
+        "name": "Alaska Survey Research",
+        "margin": 73.76666666666668
+      },
+      {
+        "state": "Alaska",
+        "name": "Alaska Survey Research",
+        "margin": 100
+      },
+      {
+        "state": "Alaska",
+        "name": "Cygnal Political",
+        "margin": 100
+      },
+      {
+        "state": "Alaska",
+        "name": "Moore Information",
+        "margin": 50
+      },
+      {
+        "state": "Alaska",
+        "name": "Alaska Survey Research",
+        "margin": 78
+      },
+      {
+        "state": "Alaska",
+        "name": "Alaska Survey Research",
+        "margin": 81
+      },
+      {
+        "state": "Alaska",
+        "name": "Change Research",
+        "margin": 20.5
+      }
+    ]
+  ],
+  [
+    "South Dakota",
+    [
+      {
+        "state": "South Dakota",
+        "name": "Lake Research",
+        "margin": 13
+      },
+      {
+        "state": "South Dakota",
+        "name": "Moore Information",
+        "margin": 35
+      }
+    ]
+  ],
+  [
+    "Iowa",
+    [
+      {
+        "state": "Iowa",
+        "name": "Change Research",
+        "margin": 4
+      },
+      {
+        "state": "Iowa",
+        "name": "Cygnal Political",
+        "margin": 8.200000000000003
+      },
+      {
+        "state": "Iowa",
+        "name": "Selzer",
+        "margin": 8
+      },
+      {
+        "state": "Iowa",
+        "name": "Change Research",
+        "margin": 5
+      },
+      {
+        "state": "Iowa",
+        "name": "Change Research",
+        "margin": 3
+      },
+      {
+        "state": "Iowa",
+        "name": "Moore Information",
+        "margin": 9
+      },
+      {
+        "state": "Iowa",
+        "name": "Cygnal Political",
+        "margin": 14.899999999999999
+      },
+      {
+        "state": "Iowa",
+        "name": "Data for Progress",
+        "margin": 14
+      },
+      {
+        "state": "Iowa",
+        "name": "Cygnal Political",
+        "margin": 16.6
+      },
+      {
+        "state": "Iowa",
+        "name": "Selzer",
+        "margin": 18
+      }
+    ]
+  ],
+  [
+    "Vermont",
+    [
+      {
+        "state": "Vermont",
+        "name": "Trafalgar Group",
+        "margin": -6.5
+      },
+      {
+        "state": "Vermont",
+        "name": "U. New Hampshire",
+        "margin": -35
+      },
+      {
+        "state": "Vermont",
+        "name": "Braun",
+        "margin": 3
+      }
+    ]
+  ],
+  [
+    "Oklahoma",
+    [
+      {
+        "state": "Oklahoma",
+        "name": "SoonerPoll.com",
+        "margin": 16.700000000000003
+      },
+      {
+        "state": "Oklahoma",
+        "name": "Echelon Insights",
+        "margin": 30
+      }
+    ]
+  ],
+  [
+    "Louisiana",
+    [
+      {
+        "state": "Louisiana",
+        "name": "Echelon Insights",
+        "margin": 21
+      },
+      {
+        "state": "Louisiana",
+        "name": "JMC Analytics",
+        "margin": 29
+      }
+    ]
+  ],
+  [
+    "South Carolina",
+    [
+      {
+        "state": "South Carolina",
+        "name": "Echelon Insights",
+        "margin": 17
+      },
+      {
+        "state": "South Carolina",
+        "name": "Moore Information",
+        "margin": 32
+      }
+    ]
+  ],
+  [
+    "Illinois",
+    [
+      {
+        "state": "Illinois",
+        "name": "Victory Geek",
+        "margin": -23
+      },
+      {
+        "state": "Illinois",
+        "name": "Victory Research",
+        "margin": -9.399999999999999
+      }
+    ]
+  ],
+  [
+    "West Virginia",
+    [
+      {
+        "state": "West Virginia",
+        "name": "Triton Polling & Research",
+        "margin": 11.600000000000001
+      },
+      {
+        "state": "West Virginia",
+        "name": "Triton Polling & Research",
+        "margin": -15.466666666666669
+      }
+    ]
+  ],
+  [
+    "Indiana",
+    [
+      {
+        "state": "Indiana",
+        "name": "Change Research",
+        "margin": 3
+      }
+    ]
+  ],
+  [
+    "Kentucky",
+    [
+      {
+        "state": "Kentucky",
+        "name": "Mason-Dixon",
+        "margin": 16
+      }
+    ]
+  ]
+]

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Visualization - Homework 5 - 2022 Senate Election Predictions </title>
+    <link rel="icon" href="data:,">
+    <link rel="stylesheet" href="styles.css"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <script src="https://d3js.org/d3.v7.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>Senatorial Predictions: CS-5630/6630 Homework 5</h1>
+        <div>Name: YOURNAME; E-Mail: YOUREMAIL; UID: u0123456</div>
+    </header>
+
+    <div class="view">
+        <h2>Senate Race Predictions</h2>
+
+        <p>
+            Senate race predictions for different states are shown below thanks to data from <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate">FiveThirtyEight</a> as of 9/28/2022.
+        </p>
+
+        <table id="predictionTable">
+            <thead>
+            <tr id="columnHeaders">
+                <th class="sortable">State <i class="fas no-display"></i></th>
+                <th class="sortable">Margin of Victory <i class="fas no-display"></i></th>
+                <th class="sortable">Wins <i class="fas no-display"></i></th>
+            </tr>
+            <tr>
+                <td></td>
+                <td><svg id="marginAxis"></svg></td>
+                <td></td>
+            </tr>
+            </thead>
+            <tbody id="predictionTableBody">
+
+            </tbody>
+        </table>
+    </div>
+
+    <script src="js/table.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
