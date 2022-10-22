@@ -1,0 +1,403 @@
+phrase,category,d_speeches,r_speeches,total,percent_of_d_speeches,percent_of_r_speeches,chi2,pval
+gun violence,crime/justice,8,0,8,34.78,0,9.391304348,0.00218017
+gun safety,crime/justice,6,0,6,26.09,0,7.043478261,0.007955439
+prison,crime/justice,5,20,25,21.74,74.07,6.803542673,0.009097718
+law enforcement,crime/justice,5,17,22,21.74,62.96,4.796955058,0.028510082
+enforcement,crime/justice,5,17,22,21.74,62.96,4.796955058,0.028510082
+schools safer,crime/justice,0,5,5,0,18.52,4.259259259,0.03903694
+local law enforcement,crime/justice,0,5,5,0,18.52,4.259259259,0.03903694
+prison population,crime/justice,0,5,5,0,18.52,4.259259259,0.03903694
+local law,crime/justice,0,5,5,0,18.52,4.259259259,0.03903694
+corrections,crime/justice,2,10,12,8.7,37.04,4.156736447,0.041469233
+school safety,crime/justice,1,7,8,4.35,25.93,3.614331723,0.057283732
+prisons,crime/justice,3,10,13,13.04,37.04,2.750030967,0.097252545
+public safety,crime/justice,7,17,24,30.43,62.96,2.737788513,0.098000306
+violence,crime/justice,12,7,19,52.17,25.93,2.251801,0.133458996
+correctional,crime/justice,3,9,12,13.04,33.33,2.130434783,0.144399792
+gun,crime/justice,8,4,12,34.78,14.81,2.063338701,0.150879274
+attorney general,crime/justice,8,4,12,34.78,14.81,2.063338701,0.150879274
+non violent,crime/justice,1,4,5,4.35,14.81,1.360708535,0.243414724
+police officer,crime/justice,1,4,5,4.35,14.81,1.360708535,0.243414724
+violent crime,crime/justice,1,4,5,4.35,14.81,1.360708535,0.243414724
+crime,crime/justice,6,12,18,26.09,44.44,1.162640902,0.280918513
+violent,crime/justice,5,10,15,21.74,37.04,0.968867418,0.324962804
+offenders,crime/justice,4,8,12,17.39,29.63,0.775093935,0.378645801
+law enforcement officers,crime/justice,3,6,9,13.04,22.22,0.581320451,0.445795211
+enforcement officers,crime/justice,3,6,9,13.04,22.22,0.581320451,0.445795211
+police officers,crime/justice,3,2,5,13.04,7.41,0.39452496,0.529930429
+criminal,crime/justice,12,17,29,52.17,62.96,0.249264257,0.617593614
+justice reform,crime/justice,4,6,10,17.39,22.22,0.144927536,0.703430697
+criminal justice reform,crime/justice,4,6,10,17.39,22.22,0.144927536,0.703430697
+victims,crime/justice,5,7,12,21.74,25.93,0.090713902,0.763271531
+recidivism rate,crime/justice,2,3,5,8.7,11.11,0.072463768,0.787782743
+violent offenders,crime/justice,2,3,5,8.7,11.11,0.072463768,0.787782743
+state police,crime/justice,4,4,8,17.39,14.81,0.051529791,0.820422388
+criminal justice,crime/justice,12,13,25,52.17,48.15,0.040257649,0.840977663
+police,crime/justice,10,12,22,43.48,44.44,0.002635046,0.959060411
+minimum wage,economy/fiscal issues,9,0,9,39.13,0,10.56521739,0.001152355
+middle class,economy/fiscal issues,9,1,10,39.13,3.7,7.793880837,0.005242347
+business community,economy/fiscal issues,8,1,9,34.78,3.7,6.664698515,0.009834129
+economic success,economy/fiscal issues,8,1,9,34.78,3.7,6.664698515,0.009834129
+doing business,economy/fiscal issues,0,7,7,0,25.93,5.962962963,0.014609469
+state income,economy/fiscal issues,0,7,7,0,25.93,5.962962963,0.014609469
+economy works,economy/fiscal issues,5,0,5,21.74,0,5.869565217,0.015404856
+savings account,economy/fiscal issues,0,5,5,0,18.52,4.259259259,0.03903694
+state income tax,economy/fiscal issues,0,5,5,0,18.52,4.259259259,0.03903694
+tax rates,economy/fiscal issues,0,5,5,0,18.52,4.259259259,0.03903694
+fully funding,economy/fiscal issues,0,5,5,0,18.52,4.259259259,0.03903694
+good jobs,economy/fiscal issues,9,3,12,39.13,11.11,4.062801932,0.043837703
+raising taxes,economy/fiscal issues,1,7,8,4.35,25.93,3.614331723,0.057283732
+rainy day,economy/fiscal issues,3,11,14,13.04,40.74,3.402806533,0.065085592
+fiscally responsible,economy/fiscal issues,5,1,6,21.74,3.7,3.36661299,0.066530403
+federal funding,economy/fiscal issues,5,1,6,21.74,3.7,3.36661299,0.066530403
+economy strong,economy/fiscal issues,5,1,6,21.74,3.7,3.36661299,0.066530403
+changing economy,economy/fiscal issues,5,1,6,21.74,3.7,3.36661299,0.066530403
+small businesses,economy/fiscal issues,11,5,16,47.83,18.52,3.33373591,0.067872542
+income tax,economy/fiscal issues,5,14,19,21.74,51.85,2.963725739,0.085151523
+high demand,economy/fiscal issues,1,6,7,4.35,22.22,2.83436853,0.092267065
+competitive,economy/fiscal issues,7,17,24,30.43,62.96,2.737788513,0.098000306
+good job,economy/fiscal issues,6,2,8,26.09,7.41,2.708534622,0.09981264
+small business,economy/fiscal issues,10,5,15,43.48,18.52,2.579173376,0.108278194
+unemployment rate lowest,economy/fiscal issues,4,1,5,17.39,3.7,2.32689211,0.127155523
+state funding,economy/fiscal issues,4,1,5,17.39,3.7,2.32689211,0.127155523
+employee,economy/fiscal issues,7,3,10,30.43,11.11,2.31884058,0.127815263
+wage,economy/fiscal issues,12,7,19,52.17,25.93,2.251801,0.133458996
+surplus,economy/fiscal issues,3,9,12,13.04,33.33,2.130434783,0.144399792
+budget provides,economy/fiscal issues,1,5,6,4.35,18.52,2.078368223,0.149399814
+dignity work,economy/fiscal issues,1,5,6,4.35,18.52,2.078368223,0.149399814
+job creators,economy/fiscal issues,1,5,6,4.35,18.52,2.078368223,0.149399814
+create jobs,economy/fiscal issues,8,4,12,34.78,14.81,2.063338701,0.150879274
+growing economy,economy/fiscal issues,2,7,9,8.7,25.93,2.048488102,0.152357423
+tax cut,economy/fiscal issues,2,7,9,8.7,25.93,2.048488102,0.152357423
+strong economy,economy/fiscal issues,5,2,7,21.74,7.41,1.822176213,0.177054454
+good paying jobs,economy/fiscal issues,5,2,7,21.74,7.41,1.822176213,0.177054454
+taxpayers,economy/fiscal issues,7,15,22,30.43,55.56,1.781291173,0.181990858
+savings,economy/fiscal issues,7,15,22,30.43,55.56,1.781291173,0.181990858
+new jobs,economy/fiscal issues,10,6,16,43.48,22.22,1.753623188,0.185421895
+financial,economy/fiscal issues,6,13,19,26.09,48.15,1.590728028,0.20722215
+build new,economy/fiscal issues,6,3,9,26.09,11.11,1.547504026,0.213504293
+general fund,economy/fiscal issues,2,6,8,8.7,22.22,1.420289855,0.2333557
+working families,economy/fiscal issues,7,4,11,30.43,14.81,1.37739716,0.240545004
+job training,economy/fiscal issues,7,4,11,30.43,14.81,1.37739716,0.240545004
+economic impact,economy/fiscal issues,1,4,5,4.35,14.81,1.360708535,0.243414724
+budget calls,economy/fiscal issues,1,4,5,4.35,14.81,1.360708535,0.243414724
+lowest unemployment,economy/fiscal issues,1,4,5,4.35,14.81,1.360708535,0.243414724
+high paying jobs,economy/fiscal issues,1,4,5,4.35,14.81,1.360708535,0.243414724
+high demand jobs,economy/fiscal issues,1,4,5,4.35,14.81,1.360708535,0.243414724
+government spending,economy/fiscal issues,1,4,5,4.35,14.81,1.360708535,0.243414724
+tax cuts,economy/fiscal issues,1,4,5,4.35,14.81,1.360708535,0.243414724
+high paying,economy/fiscal issues,1,4,5,4.35,14.81,1.360708535,0.243414724
+tax reform,economy/fiscal issues,1,4,5,4.35,14.81,1.360708535,0.243414724
+workers,economy/fiscal issues,18,14,32,78.26,51.85,1.353462158,0.244673768
+poverty,economy/fiscal issues,10,7,17,43.48,25.93,1.125414417,0.28875557
+small business owners,economy/fiscal issues,4,2,6,17.39,7.41,1.031669351,0.309766908
+tax dollars,economy/fiscal issues,4,2,6,17.39,7.41,1.031669351,0.309766908
+opportunity zones,economy/fiscal issues,4,2,6,17.39,7.41,1.031669351,0.309766908
+make ends meet,economy/fiscal issues,4,2,6,17.39,7.41,1.031669351,0.309766908
+local businesses,economy/fiscal issues,4,2,6,17.39,7.41,1.031669351,0.309766908
+jobs future,economy/fiscal issues,4,2,6,17.39,7.41,1.031669351,0.309766908
+budget provide,economy/fiscal issues,4,2,6,17.39,7.41,1.031669351,0.309766908
+employment,economy/fiscal issues,3,7,10,13.04,25.93,1.030595813,0.310018769
+fiscal,economy/fiscal issues,9,16,25,39.13,59.26,1.006441224,0.315756924
+state budget,economy/fiscal issues,7,13,20,30.43,48.15,0.974235105,0.323626222
+company,economy/fiscal issues,7,13,20,30.43,48.15,0.974235105,0.323626222
+new businesses,economy/fiscal issues,5,3,8,21.74,11.11,0.876811594,0.349076448
+property taxes,economy/fiscal issues,5,3,8,21.74,11.11,0.876811594,0.349076448
+business owners,economy/fiscal issues,5,3,8,21.74,11.11,0.876811594,0.349076448
+grow economy,economy/fiscal issues,2,5,7,8.7,18.52,0.855992639,0.354862558
+fully funded,economy/fiscal issues,2,5,7,8.7,18.52,0.855992639,0.354862558
+rainy day fund,economy/fiscal issues,2,5,7,8.7,18.52,0.855992639,0.354862558
+taxpayer,economy/fiscal issues,6,11,17,26.09,40.74,0.784408449,0.375796261
+private sector,economy/fiscal issues,6,11,17,26.09,40.74,0.784408449,0.375796261
+taxpayer dollars,economy/fiscal issues,4,8,12,17.39,29.63,0.775093935,0.378645801
+revenue,economy/fiscal issues,11,18,29,47.83,66.67,0.76011994,0.38329099
+funds,economy/fiscal issues,11,18,29,47.83,66.67,0.76011994,0.38329099
+hundreds millions dollars,economy/fiscal issues,7,5,12,30.43,18.52,0.734836286,0.391320038
+wages,economy/fiscal issues,9,7,16,39.13,25.93,0.676731079,0.410714643
+millions dollars,economy/fiscal issues,10,8,18,43.48,29.63,0.661656826,0.41597563
+unemployment rate,economy/fiscal issues,11,9,20,47.83,33.33,0.652173913,0.41933652
+industries,economy/fiscal issues,7,12,19,30.43,44.44,0.641495042,0.423169939
+budgets,economy/fiscal issues,5,9,14,21.74,33.33,0.596273292,0.440003477
+economic growth,economy/fiscal issues,5,9,14,21.74,33.33,0.596273292,0.440003477
+taxes,economy/fiscal issues,13,20,33,56.52,74.07,0.579758942,0.446406823
+pay raise,economy/fiscal issues,4,7,11,17.39,25.93,0.411213585,0.521354179
+million dollars,economy/fiscal issues,4,7,11,17.39,25.93,0.411213585,0.521354179
+costs,economy/fiscal issues,17,16,33,73.91,59.26,0.404089201,0.524984944
+economic recovery,economy/fiscal issues,3,2,5,13.04,7.41,0.39452496,0.529930429
+fair share,economy/fiscal issues,3,2,5,13.04,7.41,0.39452496,0.529930429
+corporate tax,economy/fiscal issues,3,2,5,13.04,7.41,0.39452496,0.529930429
+career technical education,economy/fiscal issues,3,2,5,13.04,7.41,0.39452496,0.529930429
+budget state,economy/fiscal issues,3,2,5,13.04,7.41,0.39452496,0.529930429
+federal tax,economy/fiscal issues,3,2,5,13.04,7.41,0.39452496,0.529930429
+build stronger,economy/fiscal issues,3,2,5,13.04,7.41,0.39452496,0.529930429
+jobs today,economy/fiscal issues,3,2,5,13.04,7.41,0.39452496,0.529930429
+goods services,economy/fiscal issues,3,2,5,13.04,7.41,0.39452496,0.529930429
+state economy,economy/fiscal issues,3,2,5,13.04,7.41,0.39452496,0.529930429
+new job,economy/fiscal issues,3,2,5,13.04,7.41,0.39452496,0.529930429
+personal income,economy/fiscal issues,3,2,5,13.04,7.41,0.39452496,0.529930429
+tough times,economy/fiscal issues,3,2,5,13.04,7.41,0.39452496,0.529930429
+jobs state,economy/fiscal issues,3,2,5,13.04,7.41,0.39452496,0.529930429
+workforce training,economy/fiscal issues,2,4,6,8.7,14.81,0.387546967,0.533591646
+fiscal year,economy/fiscal issues,2,4,6,8.7,14.81,0.387546967,0.533591646
+spend money,economy/fiscal issues,2,4,6,8.7,14.81,0.387546967,0.533591646
+jobs created,economy/fiscal issues,2,4,6,8.7,14.81,0.387546967,0.533591646
+federal funds,economy/fiscal issues,4,3,7,17.39,11.11,0.34989648,0.554171736
+career technical,economy/fiscal issues,4,3,7,17.39,11.11,0.34989648,0.554171736
+economic opportunity,economy/fiscal issues,5,4,9,21.74,14.81,0.330828413,0.565171695
+trade,economy/fiscal issues,6,5,11,26.09,18.52,0.323378715,0.569584201
+growth,economy/fiscal issues,14,20,34,60.87,74.07,0.318461684,0.572533586
+tax,economy/fiscal issues,18,25,43,78.26,92.59,0.296633337,0.586000755
+cost,economy/fiscal issues,20,20,40,86.96,74.07,0.257648953,0.611739976
+industry,economy/fiscal issues,12,17,29,52.17,62.96,0.249264257,0.617593614
+employees,economy/fiscal issues,19,19,38,82.61,70.37,0.244766506,0.620784491
+advanced manufacturing,economy/fiscal issues,3,5,8,13.04,18.52,0.232689211,0.629536949
+additional funding,economy/fiscal issues,3,5,8,13.04,18.52,0.232689211,0.629536949
+dollar,economy/fiscal issues,9,13,22,39.13,48.15,0.229541795,0.631863789
+debt,economy/fiscal issues,9,13,22,39.13,48.15,0.229541795,0.631863789
+paying jobs,economy/fiscal issues,6,9,15,26.09,33.33,0.217391304,0.641034843
+economic development,economy/fiscal issues,14,14,28,60.87,51.85,0.180354267,0.671068965
+business,economy/fiscal issues,23,24,47,100,88.89,0.163120567,0.686299587
+billion dollars,economy/fiscal issues,7,10,17,30.43,37.04,0.159230842,0.689865651
+salaries,economy/fiscal issues,4,6,10,17.39,22.22,0.144927536,0.703430697
+hiring,economy/fiscal issues,4,6,10,17.39,22.22,0.144927536,0.703430697
+supply,economy/fiscal issues,4,6,10,17.39,22.22,0.144927536,0.703430697
+spend,economy/fiscal issues,11,11,22,47.83,40.74,0.141706924,0.706589961
+fund,economy/fiscal issues,21,22,43,91.3,81.48,0.139347639,0.708930411
+manufacturing,economy/fiscal issues,8,11,19,34.78,40.74,0.116026782,0.733384369
+careers,economy/fiscal issues,9,9,18,39.13,33.33,0.115942029,0.733478056
+workforce,economy/fiscal issues,17,18,35,73.91,66.67,0.093167702,0.760188055
+entrepreneurs,economy/fiscal issues,6,6,12,26.09,22.22,0.077294686,0.780997606
+funding,economy/fiscal issues,18,23,41,78.26,85.19,0.072620871,0.787558331
+tax increase,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+attract retain,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+balance budget,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+balanced budget,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+work budget,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+paying job,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+business climate,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+job growth,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+capital investment,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+jobs know,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+new industries,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+business owner,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+budget proposes,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+bond rating,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+billions dollars,economy/fiscal issues,2,3,5,8.7,11.11,0.072463768,0.787782743
+companies,economy/fiscal issues,15,16,31,65.22,59.26,0.071113189,0.789722821
+economic,economy/fiscal issues,23,25,48,100,92.59,0.070987654,0.789904148
+budget,economy/fiscal issues,23,25,48,100,92.59,0.070987654,0.789904148
+fiscally,economy/fiscal issues,5,5,10,21.74,18.52,0.064412238,0.799653425
+tax credit,economy/fiscal issues,5,5,10,21.74,18.52,0.064412238,0.799653425
+economy,economy/fiscal issues,22,24,46,95.65,88.89,0.061751733,0.803748375
+employers,economy/fiscal issues,10,13,23,43.48,48.15,0.058881187,0.808273088
+tax relief,economy/fiscal issues,4,4,8,17.39,14.81,0.051529791,0.820422388
+dollars,economy/fiscal issues,20,22,42,86.96,81.48,0.044321754,0.833256127
+unemployment,economy/fiscal issues,12,13,25,52.17,48.15,0.040257649,0.840977663
+fully fund,economy/fiscal issues,3,3,6,13.04,11.11,0.038647343,0.844148964
+business leaders,economy/fiscal issues,3,3,6,13.04,11.11,0.038647343,0.844148964
+budget includes,economy/fiscal issues,3,3,6,13.04,11.11,0.038647343,0.844148964
+cut taxes,economy/fiscal issues,3,3,6,13.04,11.11,0.038647343,0.844148964
+new taxes,economy/fiscal issues,3,3,6,13.04,11.11,0.038647343,0.844148964
+money,economy/fiscal issues,19,21,40,82.61,77.78,0.036231884,0.849037424
+income,economy/fiscal issues,16,20,36,69.57,74.07,0.035068885,0.851451387
+open business,economy/fiscal issues,3,4,7,13.04,14.81,0.027835289,0.867496644
+budget proposal,economy/fiscal issues,3,4,7,13.04,14.81,0.027835289,0.867496644
+fastest growing,economy/fiscal issues,3,4,7,13.04,14.81,0.027835289,0.867496644
+million dollar,economy/fiscal issues,3,4,7,13.04,14.81,0.027835289,0.867496644
+property tax,economy/fiscal issues,3,4,7,13.04,14.81,0.027835289,0.867496644
+spending,economy/fiscal issues,12,15,27,52.17,55.56,0.026301664,0.87116578
+businesses,economy/fiscal issues,18,22,40,78.26,81.48,0.01610306,0.899021263
+market,economy/fiscal issues,9,10,19,39.13,37.04,0.014323248,0.904736825
+labor,economy/fiscal issues,9,10,19,39.13,37.04,0.014323248,0.904736825
+funded,economy/fiscal issues,9,10,19,39.13,37.04,0.014323248,0.904736825
+tax code,economy/fiscal issues,4,5,9,17.39,18.52,0.008767221,0.925400344
+career,economy/fiscal issues,15,18,33,65.22,66.67,0.003952569,0.949870453
+low income,economy/fiscal issues,7,8,15,30.43,29.63,0.002683843,0.958683416
+capital,economy/fiscal issues,10,12,22,43.48,44.44,0.002635046,0.959060411
+prosperity,economy/fiscal issues,10,12,22,43.48,44.44,0.002635046,0.959060411
+salary,economy/fiscal issues,5,6,11,21.74,22.22,0.001317523,0.971044984
+job creation,economy/fiscal issues,5,6,11,21.74,22.22,0.001317523,0.971044984
+job,economy/fiscal issues,22,26,48,95.65,96.3,0.000536769,0.98151605
+jobs,economy/fiscal issues,22,26,48,95.65,96.3,0.000536769,0.98151605
+innovation,economy/fiscal issues,11,13,24,47.83,48.15,0.000268384,0.986929289
+workforce development,economy/fiscal issues,6,7,13,26.09,25.93,0.00012387,0.991119987
+working,economy/fiscal issues,23,27,50,100,100,0,1
+education need,education,7,0,7,30.43,0,8.217391304,0.00414908
+students state,education,6,0,6,26.09,0,7.043478261,0.007955439
+educators deserve,education,5,0,5,21.74,0,5.869565217,0.015404856
+child care,education,9,2,11,39.13,7.41,5.681305812,0.017146602
+education workforce,education,0,5,5,0,18.52,4.259259259,0.03903694
+early childhood,education,10,4,14,43.48,14.81,3.644352427,0.056259678
+college tuition,education,5,1,6,21.74,3.7,3.36661299,0.066530403
+special education,education,5,1,6,21.74,3.7,3.36661299,0.066530403
+schools year,education,5,1,6,21.74,3.7,3.36661299,0.066530403
+kindergarten,education,11,5,16,47.83,18.52,3.33373591,0.067872542
+scholarships,education,3,10,13,13.04,37.04,2.750030967,0.097252545
+school district,education,2,8,10,8.7,29.63,2.721417069,0.09901008
+quality education,education,2,8,10,8.7,29.63,2.721417069,0.09901008
+foster care,education,2,8,10,8.7,29.63,2.721417069,0.09901008
+educational,education,5,13,18,21.74,48.15,2.406154947,0.120858897
+year degree,education,4,1,5,17.39,3.7,2.32689211,0.127155523
+training programs,education,4,1,5,17.39,3.7,2.32689211,0.127155523
+children future,education,4,1,5,17.39,3.7,2.32689211,0.127155523
+childhood education,education,7,3,10,30.43,11.11,2.31884058,0.127815263
+early childhood education,education,7,3,10,30.43,11.11,2.31884058,0.127815263
+best brightest,education,1,5,6,4.35,18.52,2.078368223,0.149399814
+teacher pay,education,4,10,14,17.39,37.04,1.711985277,0.190727993
+graduates,education,4,10,14,17.39,37.04,1.711985277,0.190727993
+graduate,education,13,9,22,56.52,33.33,1.517786561,0.21795476
+graduation,education,5,11,16,21.74,40.74,1.40136876,0.23649453
+children foster care,education,1,4,5,4.35,14.81,1.360708535,0.243414724
+children foster,education,1,4,5,4.35,14.81,1.360708535,0.243414724
+bachelor degree,education,1,4,5,4.35,14.81,1.360708535,0.243414724
+teacher pay raise,education,1,4,5,4.35,14.81,1.360708535,0.243414724
+school boards,education,1,4,5,4.35,14.81,1.360708535,0.243414724
+school college,education,1,4,5,4.35,14.81,1.360708535,0.243414724
+school student,education,1,4,5,4.35,14.81,1.360708535,0.243414724
+high school college,education,1,4,5,4.35,14.81,1.360708535,0.243414724
+parents teachers,education,1,4,5,4.35,14.81,1.360708535,0.243414724
+scholarship,education,4,9,13,17.39,33.33,1.214046823,0.270532137
+learning,education,10,18,28,43.48,66.67,1.192546584,0.274816481
+tuition,education,10,7,17,43.48,25.93,1.125414417,0.28875557
+world class education,education,4,2,6,17.39,7.41,1.031669351,0.309766908
+dedicated teachers,education,4,2,6,17.39,7.41,1.031669351,0.309766908
+class education,education,4,2,6,17.39,7.41,1.031669351,0.309766908
+graduate high school,education,5,3,8,21.74,11.11,0.876811594,0.349076448
+graduate high,education,5,3,8,21.74,11.11,0.876811594,0.349076448
+young children,education,5,3,8,21.74,11.11,0.876811594,0.349076448
+high schools,education,2,5,7,8.7,18.52,0.855992639,0.354862558
+teacher salaries,education,2,5,7,8.7,18.52,0.855992639,0.354862558
+community college,education,8,6,14,34.78,22.22,0.699792961,0.402853271
+school districts,education,6,10,16,26.09,37.04,0.465378422,0.495121029
+universities,education,6,10,16,26.09,37.04,0.465378422,0.495121029
+school students,education,6,10,16,26.09,37.04,0.465378422,0.495121029
+teacher,education,12,18,30,52.17,66.67,0.434782609,0.509651478
+computer science,education,4,7,11,17.39,25.93,0.411213585,0.521354179
+education opportunity,education,3,2,5,13.04,7.41,0.39452496,0.529930429
+funding education,education,3,2,5,13.04,7.41,0.39452496,0.529930429
+day kindergarten,education,3,2,5,13.04,7.41,0.39452496,0.529930429
+school buildings,education,3,2,5,13.04,7.41,0.39452496,0.529930429
+technical education,education,3,2,5,13.04,7.41,0.39452496,0.529930429
+students parents,education,3,2,5,13.04,7.41,0.39452496,0.529930429
+state college,education,3,2,5,13.04,7.41,0.39452496,0.529930429
+student debt,education,3,2,5,13.04,7.41,0.39452496,0.529930429
+help students,education,2,4,6,8.7,14.81,0.387546967,0.533591646
+classroom,education,12,11,23,52.17,40.74,0.352937058,0.552455223
+early education,education,4,3,7,17.39,11.11,0.34989648,0.554171736
+public schools,education,10,9,19,43.48,33.33,0.336384439,0.561923664
+superintendent,education,5,8,13,21.74,29.63,0.297411123,0.585509984
+teachers,education,19,19,38,82.61,70.37,0.244766506,0.620784491
+post secondary,education,3,5,8,13.04,18.52,0.232689211,0.629536949
+middle school,education,3,5,8,13.04,18.52,0.232689211,0.629536949
+math,education,4,6,10,17.39,22.22,0.144927536,0.703430697
+stem,education,4,6,10,17.39,22.22,0.144927536,0.703430697
+local school,education,4,6,10,17.39,22.22,0.144927536,0.703430697
+educators,education,10,10,20,43.48,37.04,0.128824477,0.719653989
+colleges,education,9,9,18,39.13,33.33,0.115942029,0.733478056
+high school,education,16,21,37,69.57,77.78,0.113200157,0.736529809
+public school,education,5,7,12,21.74,25.93,0.090713902,0.763271531
+university,education,13,17,30,56.52,62.96,0.085882984,0.769477828
+education funding,education,6,6,12,26.09,22.22,0.077294686,0.780997606
+local school districts,education,2,3,5,8.7,11.11,0.072463768,0.787782743
+students like,education,2,3,5,8.7,11.11,0.072463768,0.787782743
+apprenticeship programs,education,2,3,5,8.7,11.11,0.072463768,0.787782743
+12 schools,education,2,3,5,8.7,11.11,0.072463768,0.787782743
+college degree,education,2,3,5,8.7,11.11,0.072463768,0.787782743
+education budget,education,2,3,5,8.7,11.11,0.072463768,0.787782743
+education programs,education,2,3,5,8.7,11.11,0.072463768,0.787782743
+graduation rate,education,2,3,5,8.7,11.11,0.072463768,0.787782743
+good education,education,2,3,5,8.7,11.11,0.072463768,0.787782743
+students,education,23,25,48,100,92.59,0.070987654,0.789904148
+apprenticeship,education,5,5,10,21.74,18.52,0.064412238,0.799653425
+higher education,education,11,14,25,47.83,51.85,0.040257649,0.840977663
+schools need,education,3,3,6,13.04,11.11,0.038647343,0.844148964
+students graduate,education,3,3,6,13.04,11.11,0.038647343,0.844148964
+elementary school,education,3,3,6,13.04,11.11,0.038647343,0.844148964
+colleges universities,education,3,3,6,13.04,11.11,0.038647343,0.844148964
+college,education,17,21,38,73.91,77.78,0.024408848,0.875849119
+schools,education,22,25,47,95.65,92.59,0.01236852,0.91144677
+schools state,education,4,5,9,17.39,18.52,0.008767221,0.925400344
+classrooms,education,9,11,20,39.13,40.74,0.00805153,0.928501524
+public education,education,7,8,15,30.43,29.63,0.002683843,0.958683416
+teaching,education,7,8,15,30.43,29.63,0.002683843,0.958683416
+elementary,education,5,6,11,21.74,22.22,0.001317523,0.971044984
+12 education,education,5,6,11,21.74,22.22,0.001317523,0.971044984
+community colleges,education,5,6,11,21.74,22.22,0.001317523,0.971044984
+high school students,education,6,7,13,26.09,25.93,0.00012387,0.991119987
+education,education,23,27,50,100,100,0,1
+school,education,23,27,50,100,100,0,1
+clean energy,energy/environment,11,1,12,47.83,3.7,10.07461084,0.001503264
+climate change,energy/environment,13,2,15,56.52,7.41,9.986580784,0.001576851
+energy future,energy/environment,5,0,5,21.74,0,5.869565217,0.015404856
+climate,energy/environment,15,6,21,65.22,22.22,5.46652864,0.019384091
+carbon,energy/environment,8,2,10,34.78,7.41,4.653784219,0.030985168
+environment,energy/environment,4,14,18,17.39,51.85,4.096976203,0.042959981
+air water,energy/environment,4,1,5,17.39,3.7,2.32689211,0.127155523
+public lands,energy/environment,4,1,5,17.39,3.7,2.32689211,0.127155523
+drinking water,energy/environment,5,2,7,21.74,7.41,1.822176213,0.177054454
+natural resources,energy/environment,3,8,11,13.04,29.63,1.553066901,0.212683254
+water quality,energy/environment,1,4,5,4.35,14.81,1.360708535,0.243414724
+greenhouse gas,energy/environment,4,2,6,17.39,7.41,1.031669351,0.309766908
+renewable energy,energy/environment,5,3,8,21.74,11.11,0.876811594,0.349076448
+clean water,energy/environment,5,3,8,21.74,11.11,0.876811594,0.349076448
+emissions,energy/environment,8,6,14,34.78,22.22,0.699792961,0.402853271
+environmental,energy/environment,10,8,18,43.48,29.63,0.661656826,0.41597563
+gas emissions,energy/environment,3,2,5,13.04,7.41,0.39452496,0.529930429
+greenhouse gas emissions,energy/environment,3,2,5,13.04,7.41,0.39452496,0.529930429
+oil,energy/environment,4,6,10,17.39,22.22,0.144927536,0.703430697
+oil gas,energy/environment,2,3,5,8.7,11.11,0.072463768,0.787782743
+energy,energy/environment,15,18,33,65.22,66.67,0.003952569,0.949870453
+affordable care act,health care,9,1,10,39.13,3.7,7.793880837,0.005242347
+sick,health care,9,1,10,39.13,3.7,7.793880837,0.005242347
+pre existing conditions,health care,5,0,5,21.74,0,5.869565217,0.015404856
+reproductive health,health care,5,0,5,21.74,0,5.869565217,0.015404856
+existing conditions,health care,5,0,5,21.74,0,5.869565217,0.015404856
+cost health,health care,5,0,5,21.74,0,5.869565217,0.015404856
+expand medicaid,health care,7,1,8,30.43,3.7,5.546698873,0.018515575
+access health,health care,7,2,9,30.43,7.41,3.65879406,0.055773989
+health outcomes,health care,5,1,6,21.74,3.7,3.36661299,0.066530403
+access health care,health care,6,2,8,26.09,7.41,2.708534622,0.09981264
+expanded medicaid,health care,4,1,5,17.39,3.7,2.32689211,0.127155523
+dr,health care,8,4,12,34.78,14.81,2.063338701,0.150879274
+healthy,health care,14,9,23,60.87,33.33,2.047258979,0.152480497
+epidemic,health care,9,5,14,39.13,18.52,1.884518058,0.169821528
+affordable health care,health care,5,2,7,21.74,7.41,1.822176213,0.177054454
+hospital,health care,10,6,16,43.48,22.22,1.753623188,0.185421895
+health care costs,health care,6,3,9,26.09,11.11,1.547504026,0.213504293
+doctor,health care,7,4,11,30.43,14.81,1.37739716,0.240545004
+health issues,health care,1,4,5,4.35,14.81,1.360708535,0.243414724
+health care,health care,23,19,42,100,70.37,1.298059965,0.254567898
+hospitals,health care,8,5,13,34.78,18.52,1.263594698,0.260971758
+health insurance,health care,10,7,17,43.48,25.93,1.125414417,0.28875557
+medical,health care,15,12,27,65.22,44.44,0.992485239,0.319135718
+public health,health care,6,4,10,26.09,14.81,0.789049919,0.374387564
+healthier,health care,6,4,10,26.09,14.81,0.789049919,0.374387564
+behavioral health,health care,6,4,10,26.09,14.81,0.789049919,0.374387564
+children health,health care,3,2,5,13.04,7.41,0.39452496,0.529930429
+health crisis,health care,3,2,5,13.04,7.41,0.39452496,0.529930429
+health challenges,health care,3,2,5,13.04,7.41,0.39452496,0.529930429
+medicaid program,health care,2,4,6,8.7,14.81,0.387546967,0.533591646
+quality health,health care,4,3,7,17.39,11.11,0.34989648,0.554171736
+quality health care,health care,4,3,7,17.39,11.11,0.34989648,0.554171736
+health services,health care,7,6,13,30.43,22.22,0.322185061,0.570297453
+medicaid,health care,12,16,28,52.17,59.26,0.111341155,0.738622386
+health,health care,23,25,48,100,92.59,0.070987654,0.789904148
+illness,health care,5,5,10,21.74,18.52,0.064412238,0.799653425
+health substance,health care,3,3,6,13.04,11.11,0.038647343,0.844148964
+medicaid expansion,health care,4,5,9,17.39,18.52,0.008767221,0.925400344
+drugs,mental health/substance abuse,5,11,16,21.74,40.74,1.40136876,0.23649453
+mental health issues,mental health/substance abuse,1,4,5,4.35,14.81,1.360708535,0.243414724
+mental health,mental health/substance abuse,10,18,28,43.48,66.67,1.192546584,0.274816481
+opioid addiction,mental health/substance abuse,2,5,7,8.7,18.52,0.855992639,0.354862558
+drug,mental health/substance abuse,10,16,26,43.48,59.26,0.594822247,0.440560421
+addiction,mental health/substance abuse,6,10,16,26.09,37.04,0.465378422,0.495121029
+mental health care,mental health/substance abuse,2,4,6,8.7,14.81,0.387546967,0.533591646
+substance use,mental health/substance abuse,2,4,6,8.7,14.81,0.387546967,0.533591646
+overdose,mental health/substance abuse,6,5,11,26.09,18.52,0.323378715,0.569584201
+substance,mental health/substance abuse,7,10,17,30.43,37.04,0.159230842,0.689865651
+opioid crisis,mental health/substance abuse,4,6,10,17.39,22.22,0.144927536,0.703430697
+opioid,mental health/substance abuse,11,11,22,47.83,40.74,0.141706924,0.706589961
+substance abuse,mental health/substance abuse,6,6,12,26.09,22.22,0.077294686,0.780997606
+mental health substance,mental health/substance abuse,3,3,6,13.04,11.11,0.038647343,0.844148964
+mental health services,mental health/substance abuse,4,5,9,17.39,18.52,0.008767221,0.925400344
+mental illness,mental health/substance abuse,4,5,9,17.39,18.52,0.008767221,0.925400344
